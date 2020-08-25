@@ -3,6 +3,10 @@ legimages
 
 ML Legos for Images
 
+References:
+-----------
+1. https://madewithml.com/projects/2203/image-similarity-search-in-pytorch/
+   - https://github.com/suryaavala/image_similarity
 
 Pre-commit Hooks:
 -----------
